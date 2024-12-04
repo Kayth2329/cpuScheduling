@@ -1,0 +1,15 @@
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\bin\Debug\CS110 CPU Scheduling.exe.config
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\bin\Debug\CS110 CPU Scheduling.exe
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\bin\Debug\CS110 CPU Scheduling.pdb
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\bin\Debug\CS110 CPU Scheduling.xml
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.vbproj.AssemblyReference.cache
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.vbproj.SuggestedBindingRedirects.cache
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110_CPU_Scheduling.FCFS.resources
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110_CPU_Scheduling.Form1.resources
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110_CPU_Scheduling.Resources.resources
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110_CPU_Scheduling.SJF.resources
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.vbproj.GenerateResource.cache
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.vbproj.CoreCompileInputs.cache
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.exe
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.xml
+C:\Users\charisse ann ramirez\source\repos\CS110 CPU Scheduling\obj\Debug\CS110 CPU Scheduling.pdb
